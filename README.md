@@ -1,3 +1,8 @@
-# ToDo-Manager-Web-Application
+Introduction
+In this Project, I have created a simple Web-based To Do Application using the following technologies:
 
-this is awesome.
+Spring MVC
+Hibernate
+MySQL
+Bootstrap
+Server- tomcat9
